@@ -3,3 +3,6 @@ faces_db.npz
 cats_dogs_detection.best.weights.h5
 catsdogs_detection/
 .DS_Store
+images/
+annotations/
+*.gz
