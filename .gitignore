@@ -5,4 +5,7 @@ catsdogs_detection/
 .DS_Store
 images/
 annotations/
+*.zip
 *.gz
+*.keras
+soccer_field_dataset/
